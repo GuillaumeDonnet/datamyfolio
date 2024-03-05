@@ -2,6 +2,7 @@ This is my portfolio website.
 
 
 Credits:
+	AJ aj@lkn.io | @ajlkn
 
 	Demo Images:
 		Unsplash (unsplash.com)
