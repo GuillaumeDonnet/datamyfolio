@@ -1,4 +1,4 @@
-This is my bioinformatics and data analysis portfolio website.
+This is my portfolio website.
 
 
 Credits:
